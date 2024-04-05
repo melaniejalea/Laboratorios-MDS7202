@@ -5,7 +5,7 @@ A continuación se muestran los resultados obtenidos para diferentes valores de 
 
 ## 🎀 Umbral = 5
 <div align="center">
-  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/01f1ae489b91f1ed3a371b0de1078487e80baf8e/Laboratorio%202/plaza_threshold5.gif" alt="t5 GIF">
+  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/1a57db83689e969effc277cab39de37faf31d968/Laboratorio%202/plaza_threshold5.gif" alt="t5 GIF">
 </div>
 
 ## 🎀 Umbral = 10
@@ -30,5 +30,5 @@ A continuación se muestran los resultados obtenidos para diferentes valores de 
 
 ## 🎀 Umbral = 180
 <div align="center">
-  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/01f1ae489b91f1ed3a371b0de1078487e80baf8e/Laboratorio%202/plaza_threshold180.gif" alt="t180 GIF">
+  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/1a57db83689e969effc277cab39de37faf31d968/Laboratorio%202/plaza_threshold180.gif" alt="t180 GIF">
 </div>
