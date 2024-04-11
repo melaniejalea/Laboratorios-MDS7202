@@ -2,7 +2,7 @@
 
 Entregas de los laboratorios y proyectos del ramo!
 <div align="center">
-  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/main/studying.gif" alt="Rilakkuma GIF">
+  <img src="https://github.com/melaniejalea/Laboratorios-MDS7202/blob/main/studying.gif?raw=true" alt="Rilakkuma GIF">
 </div>
 
 ## Integrantes
